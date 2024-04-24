@@ -1,4 +1,4 @@
-[![Read/Write profiles' data](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml/badge.svg)](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml)
+<img src="./githubBunner.png" alt="developer" >
 <h1 align="center">Hi 👋, I'm Daniel Elias</h1>
 <h3 align="center">A passionate frontend developer from Israel</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -30,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel103&show_icons=true&locale=en&layout=compact" alt="daniel103" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel103&show_icons=true&locale=en" alt="daniel103" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel103&" alt="daniel103" /></p>
